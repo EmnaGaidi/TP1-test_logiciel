@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713048800386" clover="3.2.0">
+  <project timestamp="1713048800386" name="All files">
+    <metrics statements="20" coveredstatements="14" conditionals="7" coveredconditionals="6" methods="5" coveredmethods="5" elements="32" coveredelements="25" complexity="0" loc="20" ncloc="20" packages="1" files="5" classes="5"/>
+    <file name="chaine.js" path="C:\GL4-Sem2\test logiciel\TP1\src\chaine.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+    <file name="fetch.js" path="C:\GL4-Sem2\test logiciel\TP1\src\fetch.js">
+      <metrics statements="8" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+    </file>
+    <file name="math.js" path="C:\GL4-Sem2\test logiciel\TP1\src\math.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="price.js" path="C:\GL4-Sem2\test logiciel\TP1\src\price.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+    </file>
+    <file name="trier.js" path="C:\GL4-Sem2\test logiciel\TP1\src\trier.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="9" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="9" type="stmt"/>
+    </file>
+  </project>
+</coverage>

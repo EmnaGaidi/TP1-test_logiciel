@@ -1,0 +1,20 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "projet pour les tests unitaires",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:coverage": "vitest --coverage",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.5.0",
+    "jest-fetch-mock": "^3.0.3",
+    "vitest": "^1.5.0"
+  }
+}
